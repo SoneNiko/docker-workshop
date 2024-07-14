@@ -1,0 +1,14 @@
+{
+  "name": "docker-workshop",
+  "version": "1.0.0",
+  "description": "A simple Express.js application for Docker workshop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.8",
+    "body-parser": "^1.19.0"
+  }
+}
